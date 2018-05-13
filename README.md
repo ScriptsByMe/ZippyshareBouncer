@@ -10,7 +10,8 @@ Okay, okay, this script here : ( on the "ZippyshareBouncer" repository ( Up the 
 
 The Script Working is the "cta.html" , this script below is a example!
 
-" </div>
+"`<div>
+</div>
         </div>
         <div style="width: 700px; height: 25px; margin-top: 4px; margin-left: -2px;">
             <div class="addthis_sharing_toolbox"></div>
@@ -58,7 +59,7 @@ The Script Working is the "cta.html" , this script below is a example!
                     </a>
                     
                     
-                        
+      </div>                  
 
 
 
@@ -69,6 +70,7 @@ The Script Working is the "cta.html" , this script below is a example!
     }
 </script>
                 "
+                `
                 
  Copy The zippyshare link hash https://www93.zippyshare.com/d/dc2pxlho/ this is the link, you need the hash ( for example:  dc2pxlho ) and paste on the field "hashhere" , you need the file name ( for example a-pdf-so.exe ) pick the file name and paste on the field namehere.
  
@@ -78,4 +80,4 @@ The Script Working is the "cta.html" , this script below is a example!
  
  Make your free and simple Downloads Website and comment here !.
  
- ( I`m not responsible for your acts )
+ #  ( I'm not responsible for your acts )`

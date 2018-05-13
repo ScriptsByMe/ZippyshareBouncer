@@ -6,7 +6,9 @@ To Use This script, is very simple.
 
 you need the zippyshare link ( for example : https://www93.zippyshare.com/v/dc2pxlho/file.html )
 
-Okay, okay, this script here :
+Okay, okay, this script here : ( on the "ZippyshareBouncer" repository ( Up the page ) )
+
+The Script Working is the "cta.html" , this script below is a example!
 
 " </div>
         </div>

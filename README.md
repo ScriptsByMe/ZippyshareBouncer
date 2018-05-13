@@ -39,11 +39,11 @@ The Script Working is the "cta.html" , this script below is a example!
 
 
 <script type="text/javascript">
-    document.getElementById('dlbutton').href = "/d/hashhere/" + (507026 % 51245 + 507026 % 913) + "/a-pdf-so.exe";
+    document.getElementById('dlbutton').href = "/d/hashhere/" + (507026 % 51245 + 507026 % 913) + "/namehere";
 
 
     if (document.getElementById('fimage')) {
-        document.getElementById('fimage').href = "/i/dc2pxlho/" + (507026 % 51245 + 507026 % 913) + "/a-pdf-so.exe";
+        document.getElementById('fimage').href = "/i/hashhere/" + (507026 % 51245 + 507026 % 913) + "/namehere";
     }
 </script>
 <div class="right" style="margin-top: 40px; width: 251px;">

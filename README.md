@@ -1,4 +1,3 @@
-# This Sheet Don't Works More, Project Discontinued
 # ZippyshareBouncer
 This is a Script to download zippyshare files with Tutorial :D
 
@@ -70,9 +69,13 @@ The Script Working is the "cta.html" , this script below is a example!
         document.getElementById('fimage').href = "https://www93.zippyshare.com/i/hashhere/" + (507026 % 51245 + 507026 % 913) + "/namehere";
     }
 </script>
-                "
+            
+            "
                 `
-                
+            
+            
+            
+            
  Copy The zippyshare link hash https://www93.zippyshare.com/d/dc2pxlho/ this is the link, you need the hash ( for example:  dc2pxlho ) and paste on the field "hashhere" , you need the file name ( for example a-pdf-so.exe ) pick the file name and paste on the field namehere.
  
  # Author Credits
